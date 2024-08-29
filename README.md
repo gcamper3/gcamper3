@@ -6,12 +6,10 @@
 I am a current freelance IT specialist focusing on cybersecurity with a strong understanding of industry best practices and regulatory compliance.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in information technology has led me to develop a passion for cybersecurity, I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -52,6 +50,7 @@ My journey in information technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-CEH-5A5B5F?&style=for-the-badge&logo=certified-ethical-hacker&logoColor=white" />
 
 ## Projects
-- Detection Lab
+- SIEM Detection Lab
+- IT Security Audit
 - SOC Automation Project
 -->
